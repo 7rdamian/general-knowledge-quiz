@@ -22,7 +22,7 @@ A feature-rich, object-oriented command-line trivia game built in Java. It conne
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/7rdamian/general-knowledge-quiz.git](https://github.com/7rdamian/general-knowledge-quiz.git)
+   git clone https://github.com/7rdamian/general-knowledge-quiz.git
    ```
    
 2. **Dependencies:**
