@@ -2,6 +2,8 @@
 
 A feature-rich, object-oriented command-line trivia game built in Java. It connects to a live REST API to generate dynamic quizzes across dozens of categories and difficulties, and features multiple game modes and a persistent local leaderboard.
 
+> **Note:** This is the CLI version of this project. For the GUI version, [click here](https://github.com/7rdamian/java-swing-trivia-game).
+
 ## Features
 
 * **Dynamic Questions:** Integrates with the [Open Trivia Database (OpenTDB) API](https://opentdb.com/) to fetch thousands of unique questions.
